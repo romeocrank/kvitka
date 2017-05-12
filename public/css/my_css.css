@@ -1,0 +1,255 @@
+body {
+	    margin: 0;
+}
+/*privat_album_url*/
+.url-fon{
+	width: 100%;
+	height: 100vh;
+}
+.url-header{
+	padding: 3vw;
+}
+.text-wrap {
+	word-wrap:break-word;
+	padding: 3vw;
+}
+.color-text-href {
+	color: #bdbdbd;
+}
+.color-text-href:hover {
+	color: #fff;
+}
+.back-btn {
+	padding: 3vw;
+}
+
+/*privat_album_view*/
+.parent-card {
+	margin-top: 4vw;
+	padding-bottom: 2vw;
+	padding-top: 1vw;
+}
+.inner-card {
+	padding-top: 1vw;
+	padding-bottom: 1vw;
+}
+.card-img-parent {
+	margin-top: 1vw;
+	height: 35vh;
+}
+.card-img-max-heigth {
+	max-height: 31vh;
+}
+
+
+/*view*/
+input.input-grey {
+	border-bottom: 1px solid #CCCCCC !important; 
+    box-shadow: 0 1px 0 0 #CCCCCC !important; 
+}
+.input-field label {
+    color: #CCCCCC;
+}
+  .input-field label.active {
+    color: #92CD00 !important;
+}
+.text-color {
+	color:#FFFFFF;
+}
+.html-background {
+	background-color: #545254;
+}
+.card-color {
+	background-color: #272829;
+}
+.not.off{
+	background-color: #CCCCCC;
+}
+.not.on{
+	background-color: #CC0000;
+}
+.da.off{
+	background-color: #CCCCCC;
+}
+.da.on{
+	background-color: #92CD00;
+}
+
+.nav-color-btn {
+	background-color: #545254;
+}
+.nav-color-btn:hover {
+	background-color: #92CD00;
+}
+#FixedBlack {
+	position: fixed;
+	top: 0; 
+	background-color: rgba(0, 0, 0, 0.50);
+	display: none;
+	z-index: 999;
+}
+#view{
+   border-radius: 10px;
+}
+
+.view-input-field {
+	margin-top: 2em;
+}
+
+.view-confirmed-btn {
+	margin-bottom: 2vh;
+	margin-left: 1vw;
+	margin-right: 1vw;
+}
+.view-not-confirmed-btn {
+	margin-bottom: 2vh;
+}
+
+.view-btn-nav-l {
+	margin-top: 2vh;
+	padding-left: 1vw; 
+	padding-right: 1vw; 
+
+}
+
+.abs {
+	position: absolute;
+}
+
+
+.rr{
+	float: right;
+    margin-top: 42vh;
+    margin-right: 29px;
+}
+
+.ll{
+	float: left;
+	margin-top: 42vh;
+
+}
+
+.xx{
+	float: right;
+	position: absolute;
+}
+
+.xx-m{
+	float: right;
+	position: absolute;
+	margin-left: 90vw;
+}
+
+
+
+.view-btn {
+	margin-top: 2vh;
+	padding-left: 1vw; 
+	padding-right: 1vw;
+	margin-bottom: 1vw;
+}
+.view-btn-s {
+	margin-top: 5vw;
+	margin-bottom: 2vw;
+}
+.my-no-padding {
+	padding-left: 0.5vw !important;
+	padding-right:  0.5vw  !important;
+	padding-top: 1vh;
+} 
+
+/*admin_edit_images*/
+.bbt {
+ margin-left: 4px;
+}
+.edit-img-max-h-p {
+	min-height: 45vh;
+}
+.edit-img-max-h {
+	max-height: 40vh;
+}
+.admin-img-view {
+	max-height: 75vh;
+}
+#modal-img-view {	
+	background-color: #e0e0e0;
+	overflow-y: hidden !important;
+	bottom: inherit;
+	max-height: 100%;
+}
+.btn-remove {
+	margin-top: 1vw;
+}
+.btn-cover {
+	margin-top: 1vw;
+}
+.conf {
+	margin-top: 1vw;
+}
+.input-alone {
+	padding-left: 1vw;
+	padding-right: 1vw;
+}
+.modal-content {
+	background-color: #e0e0e0 ;
+}
+.no-margin {
+	margin: 0 !important;
+}
+.modal {
+	height: 85%;
+	width: 75%;
+}
+
+/*category-of-albums*/
+.uppercase {
+	text-transform: uppercase;
+}
+
+
+/*start-page*/
+.logo {
+	margin-top: 7%;
+	width: 115px;
+}
+
+.logo-solid {
+    margin-top: 10%;
+    width: 160px;
+    padding-right: 50px;
+    border-right: 1px solid #ebebeb;  
+}
+
+.my-left-ul{
+	margin-left: 15vw;
+}
+
+
+/*my-elements*/
+.my-container {
+	width: 85%
+}
+.div-back {
+	width: 500px;
+	height: 500px ;
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+
+
+/*add-photos*/
+.add-img-max-h-p {
+	height: 35vh;
+}
+
+.n-m-b{
+	margin-bottom: 0;
+}
+
+/*album-show*/
+.fa-size {
+	font-size: 25px;
+}
+.my-footer-container {
+	width: 90%;
+}

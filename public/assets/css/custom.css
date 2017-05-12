@@ -1,0 +1,43 @@
+body {
+  padding-top: 50px;
+  background: url('../img/bg.png') repeat repeat;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.main .img-responsive {
+    margin: 0 auto;
+}
+
+.main .logo {
+    margin-top:15%;
+}
+
+.main .coming {
+	margin-top:7%;
+}
+
+footer .img-responsive {
+    margin: 0 auto;
+    margin-right:7px;
+
+    margin-top:3%;
+  border: 0 none;
+  display: inline-block;
+  height: auto;
+  vertical-align: middle;
+}
+
+.footer {
+    width: 100%;
+    height: 60px;
+    margin: 0 auto;
+    margin-top: 90px;
+    text-align: center;
+}
+
+a:hover {
+	text-decoration: none;
+}

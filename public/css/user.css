@@ -1,0 +1,24 @@
+@font-face {
+	font-family: 'Antipasto';
+	src: url('../fonts/Antipasto_regular.otf');
+}
+.logo {
+    margin-top: 7%;
+    width: 85px;
+}
+.social-networks {
+	padding-left: 2vw;
+	padding-right: 2vw;
+	text-decoration: none !important;
+}
+.social-networks  {
+	color:black !important;
+	font-size: 23px;
+}
+.tel {
+	font-family:Antipasto;
+}
+.right-menu-item {
+	float:right !important;
+	list-style: none;
+}

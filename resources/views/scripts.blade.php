@@ -1,0 +1,14 @@
+<script  src="{{asset('js/jquery.js')}}"></script>
+<script  src="{{asset('js/jquery.form.min.js')}}"></script>
+<script  src="{{asset('js/scripts.js')}}"></script>
+<script  src="{{asset('js/underscore.min.js')}}"></script>
+<script  src="{{asset('js/jquery.tinyscrollbar.js')}}"></script>
+<script  src="{{asset('js/jquery.sharrre.js')}}"></script>
+<script  src="{{asset('js/jquery.transit.js')}}"></script>
+<script  src="{{asset('js/utils.js')}}"></script>
+<script  src="{{asset('js/jquery.fluxus-grid.js')}}"></script>
+<script  src="{{asset('js/jquery.fluxus-lightbox.js')}}"></script>
+<script  src="{{asset('js/iscroll.js')}}"></script>
+<script  src="{{asset('js/jquery.fluxus-slider.js')}}"></script>
+<script  src="{{asset('js/main.js')}}"></script>
+<script  src="{{asset('js/wp-embed.min.js')}}"></script>

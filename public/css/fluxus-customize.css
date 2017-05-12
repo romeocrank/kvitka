@@ -1,0 +1,49 @@
+.site-navigation .current-menu-item > a {
+	background-color: #ffffff;
+    color: #000;
+}
+
+
+.site-navigation .active > a,
+.site-navigation .current-menu-ancestor > a,
+.site-navigation .active .current-fluxus-project-type-ancestor > a,
+.current-fluxus_portfolio-parent > a,
+.nav-tip #key-right.flash,
+.nav-tip #key-left.flash,
+.navigation-paging .paging .current,
+.comment-actions a:hover,
+#wp-calendar tbody td a,
+.slide .style-default .button:hover,
+.slider-navigation li a.active,
+.slider-navigation li a:hover,
+.project .hover-box .button,
+.page-contacts .entry-content .button,
+#close-map,
+.tooltip,
+.fluxus-lightbox .lightbox-prev,
+.fluxus-lightbox .lightbox-next,
+.fluxus-lightbox .lightbox-close,
+.fluxus-lightbox .lightbox-resize,
+.page-contacts .entry-content .button:hover,
+#close-map:hover {
+  background-color: #ffffff;
+  color: #a3a3a3;
+}
+.reveal-modal,
+.navigation-paging .paging .current {
+  border-color: #ffffff;
+}
+.tooltip:after {
+  border-top-color: #ffffff;
+}
+.excerpt-more {
+  border-bottom-color: #ffffff;
+}
+.nav-tip #key-right.flash:before,
+.nav-tip #key-left.flash:before {
+  color: #a3a3a3;
+}
+.portfolio-navigation .other-projects .active .hover {
+  background: rgba(255,255,255,0.3);
+  color: #000000;
+}

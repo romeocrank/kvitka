@@ -1,0 +1,46 @@
+.logo {
+    margin-top: 7%;
+    width: 85px;
+}
+
+.social-networks {
+	padding-left: 2vw;
+	padding-right: 2vw;
+	text-decoration: none !important;
+}
+
+.grid-project .hover-box {
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	display: block;
+	background: #333;
+	background: rgba(0, 0, 0, 0.8);
+	opacity: 0;
+	-moz-transition: 0.4s opacity;
+	-webkit-transition: 0.4s opacity;
+	-o-transition: 0.4s opacity;
+	transition: 0.4s opacity;
+}
+
+.grid-project:hover .hover-box {
+	opacity: 1;
+}
+
+.grid-project .hover-box i {
+	color: #fff;
+	font: normal 13px/1.1em "Merriweather", georgia, serif;
+	padding: 0 0 3px;
+	margin: -5px 0 0 0;
+	display: block;
+}
+
+.grid-project .hover-box b {
+	color: #fff;
+	text-transform: uppercase;
+	letter-spacing: 0.04em;
+	display: block;
+	font-size: 21px;
+	line-height: 1.1em;
+	text-shadow: 0 1px 1px rgba(0, 0, 0, 0.4);
+}
